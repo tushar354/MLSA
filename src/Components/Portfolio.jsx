@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/product_35.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "this is a boy/kid image ";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My second protfolio",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my portfolio Developed by me using React, Javascript, HTML and CSS.with all infromation about myself hope you will like it.",
+    url: "https://tushargargggg.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "landing page for a company",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "ths is a landing page for a chocolate company",
+    url: "https://mokamaid.netlify.app/#",
   },
   {
-    title: "My Resume Site",
+    title: "soulbound confession",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created ths site for my hackathone project ",
+    url: "https://soulboundconfessions.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "restro website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Website for a restro.",
+    url: "https://redchillii.netlify.app/",
   },
 ];
 
